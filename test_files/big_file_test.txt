@@ -1,0 +1,358 @@
+Sök efter medlemmar
+Vanliga frågor
+Värmepumpar - Mark/Berg och Sjövärmepumpar.
+Sidor: [1] 2 [Nästa] Alla Gå ned
+Författare Ämne: Thermia Online (läst 7364 gånger)
+0 medlemmar och 1 gäst tittar på detta ämne.
+Värmepump eller värmepumpar?
+Hejsan jag har en Termia Diplomat duo 8, med Thermia Online ,instalerad för 6 månader sedan (första vintern) vad finns det för möjligheter att få värderna på trender? (på datorn) som det är nu får jag bara värden i realtid
+Antal inlägg: 2
+Har någon funderat på varför man inte får inomhusteperaturens kurva synlig i grafen? Är det någon som frågat Thermia? Skulle det inte vara väsentligt att kunna kolla historiken på den då man skall ställa in kurvan?
+Då jag frågade i Finland fick jag svaret: Det är antagligen någon ingenjör som tyckt att den inte behövs..
+Då jag skickat förfrågan till Sverige så lyser svaret med sin frånvaro.. Ingen vidare kundbetjäning..
+Lär mig om värmepumpar
+Antal inlägg: 27
+Vad är det för värden du är ute efter? Du hittar de flesta värdena/temperaturerna under fliken som heter grafer (dock inte innetemperaturen som musicman1 påpekade och önskade).
+Jag tycker att det finns väldigt mycket för Thermia att göra när det gäller Online. Det är otroligt segt, gränssnittet känns ålderdomligt, det saknas mycket funktioner och val och för mig är det väldigt instabilt. Just nu ritas t ex inte "Framledning bör"- och "Ute"-graferna ut hos mig.
+Jag har haft Online i knappt en vecka och börjar redan ångra att vi betalade 5500 kr för det...
+Förlåt alla mina jobbiga frågor. Vi blev helt lämnade av vår ÅF efter betalning och jag kan verkligen ingenting om uppvärmning. Jag har dessutom nedsatt kognitiv förmåga pga sjukdom vilket gör att jag har lite svårt att ta till mig information från text, speciellt avancerad sådan. Bruksanvisningar är t ex riktigt jobbiga...
+Jag är nog mest snack-
+Antal inlägg: 548
+Betalar man någon månadsavgift för Online (utöver hårdvaran)?
+Thermia Optimum 12 med 2x300 i åker. Hus från 1880(?) 300 kvm inkl källare. Tilläggsisolerat. Tagit bort vedpanna sep -14. Installerat Thermia Link + termostater september 2011. Bytt ut de flesta panelradiatorerna mot Duplex fr
+Tot förbrukning med gamla 2-glas fönster, 2015 apr bytt till energiglas+argon i gamla bågarna u-värde 1,1:
+Nope, inte längre, nu går det via hemmanätverket så det kostar ingenting. Tidigare gick det ju via GSM-nätet och då kostade det mobiltrafik.
+Hur Thermia hanterar kunder som har all hårdvara när de köpt Link och sedan vill registrera sig för Online skulle ju vara lite intressant att veta! Vi har ju konstaterat att hårdvaran är identisk för Online och Link så du Hjopek borde ju kunna köra Online lika väl som jag.
+Är det någon mer än jag som ofta har problem med att valen för att visa "Ute" och "Framledning bör" i graferna är borta? Dessutom har jag stora problem med att DCM ideligen tappar kontakten med Internet och måste startas om, någon annan som upplever samma sak?
+Vad ska man ha Online till om det inte visar det man är intresserad av och om det måste startas om stup i kvarten...?
+Jo. Problem här också. Ute temperaturen har inte funnits med i grafen sedan 5.10.
+Det är nog sällsynt med hela kurvor då det gäller Thermia Online, i.a.f. för min del.
+Det här fick jag som svar då jag kontaktade thermia.
+" Beror på att kurvan visar det första loggade värdet under den period man angett. Alltså, om man frågar efter detta dygns t.ex. utetemperatur och den första loggningen inte sker förrän klockan 03:00 så kommer det att vara tomt fram till 03:00. Likadant om klockan är 16:00 på eftermiddagen och den sista loggningen är t.ex. klockan 13:00 (utetemperaturen har inte ändrats sedan då). Så kommer kurvan att sluta klockan 13:00"
+Det var ju osedvanligt fånigt...varför loggar den inte hela tiden då...? (OBS, retorisk fråga!) Dessutom stämmer det inte just nu...i så fall skulle inte utetemperaturen ändrats sedan i söndags natt, alltså konstant utetemperatur i drygt ett dygn! Skulle inte tro det...
+Är det verkligen värt 5500 kr för detta...?! Jag börjar luta mer och mer åt att reklamera "Online"...jag hade sett fram emot att kunna följa pumpens arbete från datorn och därigenom lära mig mer om den men som det är nu blir jag ju mest besviken på att det inte fungerar...
+Det kanske finns en anledning till att inte så många skriver i den här tråden...de flesta har kanske valt bort Online på grund av dess brister...
+Det finns dom som är -
+Inte illa pinkat av en tom trähäst.
+Jag valde bort online för att jag fick mer funktion på annat håll Hade fördelen att ha en kollega som har online och kunde dema den åt mig.
+Jag är inte i VP branschen och har begränsad kunskap, all erfarenhet/kunskap kommer från 1st värmepump, min egen. Min är en G3a och den kan mkt väl arbeta annorlunda mot vad din gör. Ta därför mina texter för vad de är "amatören spekulerar". Om vi diskuterar solceller, så gäller samma sak. Jag har bara erfarenhet av min anläggning på mitt hus.
+Hus: 155m2 på 1.5plan + 40m2 fristående garage/förråd.
+Borrhål 200m, 6m till berg, 9m foderrör
+- Övriga värme källor:
+Contura 660T som mys-eldas och en Mitsubishi Kirigamine FD luft/luft värmepump (används som AC).
+6,0kWp solceller från JA-solar. Växelriktare Fronius 5.0-3-M (5kW) + Fronius SmartMeter. Förväntat utbyte 5000kWh / år
+2013-11-29: Konverterat från direkt el till -> BVP. Garage från kallt till direkt el. Förråd fortsatt el.
+Beräknad köpt el 2017: 11,5MWh (varav 0,7MWh är återköpt)
+...som ju inte fungerar alls för mig...
+Vad menar du med "på annat håll"? Om jag kan få samma typ av övervakning och fjärrstyrning på något annat sätt en "Online" så tar jag mycket hellre det och lämnar tillbaka Online-grejerna!
+Alternativet som Tommy pratar om är Thermiq.net en lösning där du själv loggar dina värden och presenterar dem på webben mha en Raspberry pi och ett interface till värmepumpen. Då får du kontinuerlig loggning av alla data på minutbas och sammanställning på tim och dagsbas.
+Svarar gärna på frågor runt ThermIQ.net, Loggning och styrning av din Thermia-värmepump över internet
+Min Online har inte fungerat alls sedan igår...ett mail till återförsäljaren håller på att formuleras för att häva köptet på denna skräpprodukt...
+Sidor: [1] 2 [Nästa] Alla Gå upp
+användare: 20
+Användare online:
+
+﻿ Blom- modell för tappning vektor illustrationer. Illustration av utsmyckat - 33047349
+Logga in Bli medlem GRATIS Priser och nerladdningsplaner
+Alla som är nöjda
+Blom- modell för tappning
+dekorativt,
+Obegränsade kopior (U-EL)
+Internetanvändning (W-EL)
+Tryckanvändning (P-EL)
+Sälj fullständiga rättigheter (SR-EL 3)
+Sälj fullständiga rättigheter (SR-EL)
+Behöver du hjälp?
+Sälj dina bilder
+
+dito – Sveriges största sortiment av e-böcker
+Tecknade serier
+Unika inblickar i Sveriges spionage under kalla kriget
+Kalla kriget framstår alltmer som en viktig epok i svensk historia ? inte minst när det gäller bilden av säkerhetspolitiken. Samtidigt har det saknats en översiktlig skildring av den svenska underrättelsetjänsten under denna tid. Vad var dess syfte? Vilka hemliga operationer genomfördes? Och hur såg relationerna ut till andra underrättelsetjänster?
+Wilhelm Agrell är en av Sveriges främsta experter på underrättelseanalys. Utifrån tidigare konfidentiellt källmaterial har han nu skrivit boken Sprickor i järnridån, som ger en fascinerande och heltäckande bild av den hemliga underrättelsetjänstens arbete under en viktig och på många sätt farofylld tid.
+I arbetet med boken har han använt sig av två tidigare hemligstämplade tjänstedagböcker från det så kallade T-kontoret, skrivna av chefen Thede Palm och hans medhjälpare Curt Andreasson. Dagböckerna ger unika inblickar i deras arbete ? som var ett komplicerat och riskfyllt spel. Sverige var en liten men inte oviktig bricka i kalla krigets stora spel.
++ Visa hela texten- Visa endast utdrag
+En av landets främsta experter på underrättelseverksamhet skriver om ett tidigare okänt ämne i svensk litteratur!
+USA:s och Sovjetunionens ömsesidiga önskan att efter krigsslutet 1945 kontrollera Östeuropa involverade till en början inga militära planer. Men efter hand ökade risken för en väpnad konfrontation. Världen fasade för ett atomkrig. Men i det krig som kom att utkämpas, var det inte arméer och massförstörelsevapen som sattes in. Den verkliga kampen fördes i underrättelsetjänsterna, som med övervakningssystem och agentnät försökte infiltrera och kontrollera varandra.
+Stora mängder nytt material finns bland källorna när Agrell skildrar det spionage som pågick i nära ett halvt sekel. Boken, som sträcker sig från 1945 fram till 1989, rör sig på två plan. Dels på ett översiktligt som beskriver förhållandet mellan de två supermakterna, dels skildras enskilda händelser och människoöden.
+"Agrells bok är väsentlig och innehåller betydligt mer än det sedvanliga omtugget av sägenomspunna agenter och kontraspioners öden."
+"Agrell skriver intresseväckande för den som är intresserad av modern historia. Han kastar nytt ljus över en tid då kärnvapenkriget hotade att utplåna oss alla."
+"Agrell ger intressanta svar i en kunnig, saklig och välskriven berättelse."
+Venona var det kalla krigets längsta och mest hemliga underrättelseoperation. Brittiska och amerikanska chifferexperter dechiffrerade, med hjälp av svensk radiotrafik, den sovjetiska underrättelsetjänstens till synes olösliga koder. Venona - spåren av ett underrättelsekrig handlar om Sveriges roll i ett hemligt samarbetsprojekt, jakten på sovjetisk illegal verksamhet fram till 1970-talet och Sovjetunionens underrättelseverksamhet.
+Wilhelm Agrell är docent i historia. Tidigare böcker på Historiska Media är: Fred och fruktan (2000), Svenska förintelsevapen (2002), Venona, spåren från ett underrättelsekrig(2003), Skuggor runt Wallenberg (2006), Stockholm som spioncentral (2006) och Maskerad front (2008).
+Här kartlägger Wilhelm Agrell Stockholm som europeisk spioncentral under andra världskriget. Han gör som spionerna gjort, han lägger pussel. Agrell för samman fakta från olika källor, och fram träder en bild av Stockholm som ett internationellt spionnäste. Stockholms betydelse bevisas väl av att amerikanska legationen ökade sin personal från från tio till fyrahundra på fyra år.
+Spionerna spionerade på Sverige, men ännu mer på varandra, ibland spionerade de på sig själva. De sovjetiska spionerna bevakade till exempel sin ambassadör Alexandra Kollontaj, och norrmännen kan ha dödat en misstänkt spion bland sina egna män på Östermalm.
+Det har gått drygt 60 år sedan andra världskriget tog slut. Sedan dess har flera arkiv öppnats, dimmorna lättat, och bilden av förhållandena har klarnat.
+Det är en märklig och intressant promenad den så kunnige konfliktforskaren Wilhelm Agrell tar oss med på. Naturligtvis kan vi följa honom både på kartan och i nytagna bilder av de olika "tillhållen".
+Underrättelsevetenskapen handlar om analyser och förutsägelser om komplexa mönster i omvärlden. Det är en hemlig vetenskap som haft långt fler utövare än teoretiker och som i hög grad saknat de öppna vetenskapernas kritiska diskussion kring metoder och teoribildning. Konsten att gissa rätt är ett av de första arbeten som konsekvent tar upp underrättelseanalysens problem ur ett vetenskapligt och metodologiskt perspektiv. Boken är en introduktion till ett intressant och alltmer betydelsefullt kunskapsfält.
+E-boken baseras på den tryckta utgåvan från 1998.
+Vem kan man lita på?
+Högaktuell bok om övervakning av en av Sveriges främsta experter
+I juni 2013 fylldes världens media av avslöjanden från den avhoppade IT-teknikern Edward Snowden. Rapporteringen visade ett omfattande övervakningsnät, och att de som låg bakom var underrättelsetjänster i samarbete med telekomföretag och IT-jättar.
+Hur har detta globala övervakningssystem kommit till? Och hur har det nått en så svindlande omfattning?
+I Vem kan man lita på? redogör Wilhelm Agrell, historiker och professor i underättelseanalys, för denna högaktuella utveckling.
+Wilhelm Agrell är historiker med inriktning på freds- och konfliktsvetenskap samt professor i underrättelseanalys vid Lunds universitet. Agrell är också verksam som författare och för Historiska Media har han skrivit följande böcker: Fred och Fruktan. Sveriges säkerhetspolitiska historia 1918-2000 (2000), Svenska förintelsevapen (2002), Venona. Spåren från ett underrättelsekrig (2003), Skuggor runt Wallenberg. Uppdrag i Ungern 1943-1945 (2006), Stockholm som spioncentral (2006) och Maskerad front. Kalla krigets underrättelsehistoria (2008).
+Officiellt är Jakob i Tel Aviv för att knyta kontakter på en konferens om internationell terroristbekämpning. Men hans verkliga uppdrag är att så diskret som möjligt avveckla ett politiskt alltmer belastande samarbete mellan Sverige och Israel. Bit för bit dras Jakob in i en familjetragedi och ett skuggspel med en okänd motpart. Mannen från Suez är en berättelse om underrättelsearbetets sällsamma lockelse och ett Israel där känslan av att vara oövervinnerlig för länge sedan blivit alltmer ihålig.
+Hur kan man på kort tid förvandlas från en helt vanlig tjugoåring till en kallhamrad IRA-terrorist?
+Dödsbudet bygger på en verklig händelse: sprängningen av en buss i London 1996. Den unge attentatsmannen, tjugoårige Anthony, som själv omkom vid explosionen, lämnade många frågor efter sig. Hans familj och vänner förstod ingenting. Vad gjorde en till synes helt vanlig irländsk kille med en bomb i London? Hur hade han kommit kontakt med IRA? Med små medel skapar Wilhelm Agrell en mycket spännande och engagerande berättelse.
+Wilhelm Agrell, född 1950, är docent i historia och en flitig debattör. Han har skrivit en rad fackböcker och vuxenromaner. Dödsbudet är hans första ungdomsroman.
+Föreställ dig ett museum år 2050. I staden, i glesbygden eller någonstans däremellan. Vilka är där? Vad upplever de? Kommer de att komma tillbaka?
+Den här boken handlar om dem, om framtidens besökare och deras förväntningar, beteenden och drömmar. Riksutställningar har bett 17 visionärer från olika expertområden att närma sig framtiden utifrån sina perspektiv, som rymmer alltifrån vår tids normkritik till megatrender som digitalisering, automatisering och urbanisering.
+Kartan de tecknar visar hur museernas uppdrag att spegla nutiden, minnas historien och öppna dörrar mot framtiden har potential att spela en central roll genom de kommande decenniernas samhällsförändringar.
+Att sjunga långsiktighetens och minnets lov, och samtidigt befinna sig i ständig rörelse, är en utmaning. I denna antologi står det klart att det är med besökaren i centrum som utmaningen behöver bemötas.
+De här krönikorna publicerades första gången mellan 2010-2012 i Sydsvenskan och Dagens Nyheter
+"Det finns i den svenska regeringens och utrikesledningens hantering av den fängslade Dawit Isaak allt tydligare och obehagligare paralleller till Raoul Wallenberg, det största och mest utdragna diplomatiska misslyckandet i Sveriges moderna historia. I båda fallen kom Sverige att förlita sig på tyst diplomati. Men resultatet blev mörkläggning på hemmaplan och en förödande flathet gentemot förövarna, de regimer som inte fick provoceras genom öppen och tydlig kritik."
+Wilhelm Agrell, född 1950 i Uppsala, är svensk säkerhetspolitisk forskare, skribent och författare. Efter militärtjänsten tog han värvning som FN-soldat och tjänstgjorde vid Suezkanalen 1973-74. Efter ett antal år i den svenska underrättelsetjänsten skrev han sin dok- torsavhandling i historia om de svenska planerna på att utveckla kärnvapen på 1950- och 60-talet. 2006 blev han professor i underrättelseanalys vid Lunds universitet. Wilhelm Agrell har under mer är trettiofem år varit en återkommande kritisk kommentator av svensk utrikes- och försvarspolitik med ett speciellt gott öga till den offentliga lögnen i dess många över tiden växlande former.
+Telegram Journalistik ger ut god journalistik som publicerats genom tiderna - i bokform. Krönikor, essäer, reportage, artiklar, spännande features, djuplodande intervjuer, grävande reportage - journalister från den så omsusade magasinsboomen under 80-, 90- och 00-talet öppnar sina digra arkiv, och det har skrivits fantastiska texter även innan dess som nu kan tillgängliggöras igen. Det skrivs dessutom nya texter, som nu kan läsas direkt - i en e-bok eller en tryckt bok, läsaren väljer.
+Dagen då ett världskrig började
+De här krönikorna publicerades första gången i Dagens Nyheter 2001-2002, och i Sydsvenskan 2006-2008
+"För det internationella samfundet kan det i extremfall vara nödvändigt att tillgripa våldsmedel. Detta gällde i slutet av Bosnienkriget och borde ha gällt inför folkmordet i Rwanda. Men det handlar just om extremfallen, den rutinmässiga användningen av krig som universalinstrument i den internationella politiken sedan slutet av 1990-talet är i grunden något helt annat."
+Wilhelm Agrell, född 1950 i Uppsala, är svensk säkerhetspolitisk forskare, skribent och författare. Efter militärtjänsten tog han värvning som FN-soldat och tjänstgjorde vid Suezkanalen 1973-74. Efter ett antal år i den svenska underrättelsetjänsten skrev han sin doktorsavhandling i historia om de svenska planerna på att utveckla kärnvapen på 1950- och 60-talet. 2006 blev han professor i underrättelseanalys vid Lunds universitet. Wilhelm Agrell har under mer är trettiofem år varit en återkommande kritisk kommentator av svensk utrikes- och försvarspolitik med ett speciellt gott öga till den offentliga lögnen i dess många över tiden växlande former.
+Män från andra världar
+De här krönikorna är publicerade första gången i Sydsvenskan mellan 2001-2011
+"Vännerna, grannarna och skolkamraterna står där alla svarslösa. Han var ju en vanlig kille, framhåller de. Och en vanlig kille är inte en sådan som man väntar sig skall vilja bli massmördare, Sveriges förste självmordsbombare. Steget är för långt, glappet för stort. Grannfrun skakar på huvudet, säger att hon inte kan förstå det här."
+Raoul Wallenberg behöver ingen närmare presentation, internationellt är han en av de mest kända svenskarna. 1944 kom Wallenberg till Ungern med uppdraget att rädda de judar som befann sig där. Han tillfångatogs året efter av sovjetarmén och fördes till Moskva. Frågan "varför" har sedan dess förbryllat forskare och allmänhet, och än idag är gåtan olöst.
+Skuggor runt Wallenberg tar fram nya fakta om personerna runt Wallenberg, vilket för oss en bit närmare gåtans lösning. I boken berättas om de underrättelsetjänster och specialoperationer som utspelades i Ungern 1943-45. Parallellt med Wallenbergs hjälpaktioner sjöd staden av en dold underrättelseverksamhet, som gjorde att Wallenbergs uppdrag kom att framträda mer konspirativt än vad det verkligen var. Agrells slutsats är att Raoul Wallenberg utnyttjades av underrättelsetjänster i deras syften, utan att han själv var medveten om det.
+Skildringen bygger på dokument ur amerikanska, brittiska, tyska och svenska underrättelsearkiv som successivt blivit tillgängliga för forskning.
+I april 1954 sökte de höga KGB-officerarna Jevdokia och Vladimir Petrov politisk asyl i Australien. De var det kalla krigets första stora avhoppare och de kunde ge de västliga underrättelsetjänsterna ovärderlig förstahandsinformation.
+Mycket av informationen visade sig gälla Sverige, där paret varit stationerat 1943?47, vilket ledde till att Säpo kunde gripa flera agenter. Vladimir Petrov hade dock inte valt friheten, han flydde undan ett obevekligt öde och skräcken för det gav honom inget val. Och makens avhopp försatte Jevdokia i en fruktansvärd situation, ett val mellan två avgrunder. Wilhelm Agrell har i denna spännande och dramatiska skildring av två människoöden utgått från ett omfattande material från australiska, brittiska och svenska säkerhetstjänster som först på senare tid blivit offentligt.
+De här krönikorna publicerades första gången mellan 2007-2014 i Svenska dagbladet och Sydsvenskan
+Både det svenska försvaret och försvarsdebatten tog timeout i början av 00-talet. Men sedan började orosmolnen skockas, både i omvärlden och på hemmaplan, sedan ÖB avslöjat att dagens försvar bara klarade av att hålla stånd i högst en vecka, och då bara på en plats.
+Det var som om man i Sverige plötsligt vaknade till efter en lång försvarspolitisk dvala bara för att upptäcka att det försvar som många trodde ändå måste finnas undangömt någonstans inte längre existerade. Försvaret hade under sin timeout stöpts om i grunden och allt det gamla var borta. Det tråkiga var bara att pengarna inte räckt till det nya och det man lyckats få på fötter var avsett för internationella insatser, inte för försvar av det egna landet. Så enveckasförsvaret var egentligen en bonus, eftersom det aldrig varit meningen att det nya försvaret skulle kunna försvara landet. Det välvilligaste man kan säga om 2000-talets svenska försvarsreform är att den genomfördes med stor grundlighet och att det bakomliggande feltänkandet ståndaktigt försvarades in i det sista.
+Wilhelm Agrell, född 1950 i Uppsala, är svensk säkerhetspolitisk forskare, skribent och författare. Efter militärtjänsten tog han värvning som FN- soldat och tjänstgjorde vid Suezkanalen 1973-74. Efter ett antal år i den svenska underrättelsetjänsten skrev han sin doktorsavhandling i historia om de svenska planerna på att utveckla kärnvapen på 1950- och 60-talet. 2006 blev han professor i underrättelseanalys vid Lunds universitet. Förutom en lång rad fackböcker har han skrivit reportage, skönlitteratur och ungdomsromanerna Dödsbudet och Desertwalker.
+Wilhelm Agrell har under mer är trettiofem år varit en återkommande kritisk kommentator av svensk utrikes- och försvarspolitik med ett speciellt gott öga till den offentliga lögnen i dess många över tiden växlande former.
+Året är 1978. På den svenska bestickningen i Helsingfors har Johan Åkerman nyligen börjat sin tjänstgöring. Men bakom diplomatpasset döljer sig något helt annat - den svenska underrättelsetjänstens hemlige representant i den finska huvudstaden, chefen för det som kort och gott kallas Helsingforsstationen. För Johan och hans finsk-baltiska hustru Niki öppnar placeringen i Helsingfors dörren till en värld som har nyhetens alla behag. Men dörren har också öppnats in till en annan värld, till underrättelsearbetets hemliga lockelser och demoralisering.
+Framtidens montrar verkar alltid vara tomma
+Tanken att kultur också är försvar har en större giltighet än vad vi kanske omedelbart associerar till, både idag och år 2050. Koppling mellan säkerhetspolitik, samhällsgemenskap och kulturyttringar är dock tveeggad. Kulturen kan överbrygga konflikter och skapa gemensamma kontaktytor och referensramar, men samtidigt finns det motsatta: kulturen i maktens och nyordningens tjänst.
+Denna text publicerades ursprungligen som ett kapitel i antologin Museerna och besökarna 2050 : en framtidsantologi från Riksutställningar (8tto förlag), red. Karin Henriksson och Evelina Wahlqvist.
+Utveckling av kemiska och nukleära stridsmedel 1928-70
+Svenska förintelsevapen handlar om en del av den svenska efterkrigshistorien som genererat oändliga bortförklaringar och skönmålningar. 1945 inledde svenska försvarsforskare studiet av det nya supervapnet - atombomben - något som snart växte till Sveriges enskilt största militära forskningsprogram. Syftet var inte bara att utveckla kärnvapen utan också alla de anläggningar som krävdes. Även om existensen av ett vapenprogram förnekades blev planerna på svenska kärnvapen en stor inrikespolitisk stridsfråga.
+Men i det fördolda växte ännu ett vapenprogram fram: kemisternas motsvarighet till fysikernas atombomb. Det handlade om utvecklingsarbetet kring kemiska stridsmedel - komplett med nervgasfabrik, specialammunition och vapenbärare.
+När de hemligstämplade dokumenten från den här tiden successivt släpptes fria gav det Wilhelm Agrell en unik möjlighet att beskriva de hemliga projektens förlopp, och deras vetenskapliga och tekniska resultat. Här möts civila och militära parter i ett informellt samarbete, men också i konflikter och motstridiga intressen. Och vid sidan av alla säkerhetspolitiska eller historiska aspekter är detta i högsta grad en berättelse värd att berätta.
+Fred och fruktan är det första stora översiktsverket över svensk säkerhetspolitik under 1900-talet. Wilhelm Agrell knyter här samman en rad omdebatterade teman i svensk samtidshistoria. Han synar bland annat eftergiftspolitiken under andra världskriget, dubbelspelet kring neutraliteten, Sveriges deltagande i embargopolitiken, DC 3-affären och ubåtskrisen.
+En genomgående linje är att det funnits ett intrikat och motsägelsefullt förhållande mellan ord och handling; mellan den uttalade politiken och det som faktiskt genomförts. Det har ofta varit en liten krets av personer som spelat en avgörande roll i de politiska besluten. Författaren kartlägger och granskar dessa outtalade nätverk.
+Utifrån Wilhelm Agrells diskussioner framträder helhetslinjerna i svensk säkerhetspolitik. Fred och fruktan ger en klargörande överblick av den långa epok då den svenska neutralitetslinjen växte fram och blev en dominerande ideologi.
+Vad driver en svensk att delta i ett krig?
+När vi var i Afghanistan sa man hela tiden att vi var där för att göra skillnad. Jag vet inte om vi gjorde det. När jag tänker på det nu tror jag att det snarare var Affeland som gjorde skillnad med oss, utan att vi märkte det medan det hände.
+Vad driver en vanlig svensk kille att åka iväg som soldat till en krigshärd? Och vad händer egentligen med ett psyke i skarpt läge - när beslutet om att döda andra människor måste fattas helt utan eftertanke? Den nyutbildade svenska soldaten Marcus förväntar sig det stora äventyret när han får chansen att åka till Afghanistan för att ansluta sig till den svenska styrkan på plats. Under den rutinerade mentorn Djungel-Jims beskydd får han skåda kriget på nära håll. Men kriget är svårbegripligt och våldet oförutsägbart och ingenting blir som han föreställt sig.
+Wilhelm Agrell är författare, freds- och konfliktforskare samt professor i underrättelseanalys med stor kännedom om kriget i Afghanistan. Affeland bygger bland annat på författarens egna intervjuer med soldater som varit på plats i Afghanistan.
+Han har skrivit en rad faktaböcker, vuxenromaner och ungdomsböcker och blivit belönad med Nils Holgerssonplaketten.I e-boken medföljer bonusmaterial i form av autentiska foton från det svenska lägret.
+Under det nya varumärket dito lanserades under hösten 2011 en helt nytt koncept för e-böcker och digitala ljudböcker.
+Dito är Bokus satsning på digitala böcker och har idag över 1 000 000 svenska och engelska e-böcker och digitala ljudböcker.
+Dito nominerades 2012 till Internetworld Topp 100.
+Vi hjälper dig att använda dito.
+Vanliga frågor & svar finns här
+Behöver du hjälp?
+Öppettider: Vardagar 8-20.
+Köp presentkort på dito.se
+E-böcker från Bokus
+
+Behöver du hjälp?
+Bloggen om barnen och rättssäkerheten
+Jag fick ett mail av Madde som undrade om jag kunde hjälpa henne att lägga in hennes historia och självklart hjälper jag henne med det. Vissa människor får gå genom mer än andra. Hon har själv valt bilderna.
+Jag var 15 år och satt i omklädningsrummet på badplatsen tillsammans med min bästa kompis Colan. Jag hade precis kommit hem från Norge gör jag varit på scoutläget i två veckor. Colan hade bott i hos mina föräldrar under tiden då hennes föräldrar bråkar väldigt mycket. Hon skruvade på sig och ville berätta något för mig och jag förstod att det var något hon tyckte var svårt. Jag sa till henne att helt enkelt bara berätta det, jag ville vara ett stöd till henne för jag trodde det handlade om hennes föräldrar. Det hon skulle berätta för mig var inte i närheten av vad jag någonsin kunde i min vildaste fantasi kunnat tänka mig.
+Hon såg på mig med lite rädd och osäker blick och jag uppmuntrade henne.
+Din pappa är inte din riktiga pappa sa hon.
+Jag bara såg på henne en lång stund och var inte förmögen att säga ett ljud. Jag var säker på att jag hört rätt men ändå inte.
+När jag lyckats att samla ihop tankarna kunde jag bara få fram – hur vet du det?
+Hon berättade att hon hört mina föräldrar prata och att min pappa hade sagt till min mamma att Lena (det är så jag kallas i min familj) måste någongång få veta vem som är hennes biologiska pappa. Mamma ville vänta lite till för hon ville inte göra mig ledsen.
+Pappa hade fortsatt att argumentera för att jag skulle få veta sanningen, men mamma ville absolut inte.
+Det var det Colan visste och inget mer.
+Vi badade och efter badet cyklade jag hem. Jag sa inte ett ljud till mina föräldrar till en dag ca 14 dagar senare. Pappa och jag hamnade i bråk vid frukosten och jag visste att jag hade fel. Jag kände mig i underläge och spände ögonen i pappa och frågade honom med ilsken röst: Är du inte min pappa? I samma stund önskade jag att tungan hade skurits ur munnen på mig. Hur kunde jag sänka mig så lågt och haspla ur mig det på detta grymma sätt? Jag trodde det handlade om att jag ville vinna, flera år senare förstod jag att det inte handlade om det.
+Jag bedyrade snabbt att det inte gjorde någonting. Jag var inte arg. Jag tog på mig hela skulden för mitt sätt att hantera detta. Jag mådde mer dåligt av hur jag hanterade situationen än själva faktumet att jag hade varit lurad i 15 år.
+Alla visste utom jag och mina syskon. Ingen berättade det för mig och jag mådde mest dåligt över att jag kunde vara så elak.
+Efter det tillfället kan jag inte minnas mer än att jag fick reda på vad min pappa hette, var han ev bodde och att dom trodde att jag hade syskon.
+Jag vet inte hur många gånger jag försäkrade att jag inte var arg och inte lade skulden på någon, jag trodde på det själv. Jag övertygade mig så stark.
+Det gick ett år och jag tänkte inte medvetet på det, omedvetet pågick det en process djupare än jag någonsin kunde föreställa mig. Det gick inte så bra i skolan längre, jag var helt enkelt inte intresserad av skolan. Jag ville bara vara med mina hästar, min livsglädje, mitt hela liv. Mina hästar räddade livet på mig, utan dom vet jag inte hur det hade gått. Jag hamnade i dåligt sällskap och det kunde ha gått illa, men eftersom jag har en sådan pliktkänsla så blev hästarna min räddning för jag kom alltid hem eftersom hästarna behövde mig och jag dom.
+Jag minns att jag vid något tillfälle frågade min mamma och min biologiska pappa och vad som hände. Hon svarade att hon var ung när hon blev gravid (17 år) och att min biologiska pappa var en spelare och drack en hel del. Mormor hade också en hel del synpunkter på honom och om jag har förstått det rätt så hämtade hon helt sonika hem min mamma. Det var allt hon berättade, det var helt klart ett känsligt ämne. Jag fick helt enkelt inte reda på mer av henne. Tanken att ta kontakt med honom då slog mig aldrig och han trycktes både medvetet och omedvetet långt ner i själen.
+En dag när jag var 17 år och jag kom hem från jobbet infann det sig en konstig känsla. Jag visste inte vad det var, men något kändes djupt inom mig. Jag satte på vattnet i badkaret och lät det forsa medan jag hämtade telefonen och satte den på toastolen. Jag hade lång skarvsladd till telefonen då det var före den sladdlösa telefonens tid. Detta med telefonen var inte likt mig, jag är ingen telefonmänniska, har aldrig varit och i normala fall tog jag aldrig in telefonen till badet, då ville jag vara ifred.
+Jag hann inte mer än att sätta mig i badet förrän telefonen ringde och när jag svarade hörde jag min förtvivlade mamma som berättade att Ambulansen precis hämtat min pappa för han var medvetslös och dom trodde inte han skulle överleva natten. Jag tror att tankar helt enkelt kan stanna i nuet som om någon trycker på en paus knapp. Det stod helt still. Jag försökte tänka men det gick inte. Tillslut sinnade jag mig och jag hörde mig själv lova att ta tåget nästa morgon så fort det gick och komma hem. Jag ringde min arbetsgivare som gav mig ledigt och han fixade så att jag fick skjuts in till stationen nästa morgon.
+Jag vaknade av att telefonen ringde, det var min mamma som berättade att min pappa är död. Han klarade inte natten. Strax innan dom skulle göra en hjärnröntgen så dog han bara.
+Jag vet inte hur det gick till, men ett par timmar senare satt jag på tåget på väg till mamma och mina syskon. När jag kom fram så samlades vi tillsammans en stund och min mamma var totalt förstörd. Hon bad mig att ringa de där jobbiga samtalen som bara måste ringas. Hon hade pratat med farfar och morfar. Både farmor och mormor var döda sedan tidigare. Jag kommer plötsligt på att pappa hade sagt till mig två år tidigare när vi var på mormors begravning att det är bra att ha varit på en begravning för man vet aldrig vem det gäller nästa gång. Nu undrar jag om han visste att det skulle bli hans begravning då det visade sig att han tagit tabletter och valt att gå till den andra sidan istället för att leva tillsammans med oss.
+Jag ringer i varje fall de där jobbiga samtalen och några veckor senare sker begravningen.
+Det går ca tre år och jag börjar mer och mer tänka på min biologiska pappa. Vem är han?
+Jag genom gick en jobbig process där jag ena stunden vill kontakta honom och andra stunden kände jag att jag aldrig ville veta vem han var. Tillslut bestämde jag mig för att prata med mamma och försökte på alla sätt komma på hur jag skulle berätta för henne att jag ville kontakta min biologiska pappa utan att såra henne. Jag hade en föreställning att hon skulle tro att nu när jag mist en pappa så ville jag ha en ny pappa. Men så var det inte.
+Jag ringde det där jobbiga samtalet tillslut till min mamma och berättade med nervös stämma vad jag ville. Och till min stora glädje och lättnad sa hon att hon också tyckte det. Hon kunde inte hjälpa mig med mer än namnet och var hon trodde att han bodde.
+Jag ringde till skattemyndigheten där jag bodde och dom hänvisade mig till skattemyndigheten där han tillhörde. Jag ringde dit och dom kunde bekräfta vad han hette och att jag hade 4 syskon på hans sida. Mer kunde dom inte berätta för dom var tvungna att kolla upp honom först innan dom gav mig hans adress. Det var ju inte lika lätt då som det är nu att ta reda på var folk bor. Dom skulle skicka alla uppgifter till skattemyndigheten där jag tillhörde och jag kunde ringa dit några dagar senare.
+4 dagar senare ringde jag och fick adress och födelsedata. När jag frågade vad det var som skulle kollas upp så visade det sig att dom ville veta att han inte var kriminell på det sätt att det skulle vara skadligt för mig.
+Nu gick det några veckor, jag hade namn och adress. Jag visste att jag skulle skriva till honom, men inte hur jag skulle skriva. Hur gör man? Hej, jag är din dotter verkade alldeles för burdust. Tillslut fick jag ihop ett brev och med ett bultande inre och skakande händer lade jag brevet i postlådan.
+Det gick någon vecka och ännu hade jag inte fått något svar. Jag tappade hoppet. Ytterligare en vecka senare kom det ett brev och jag visste direkt att det var från min biologiska pappa. Jag kände hur kraften bara försvann och jag kände mig nästan febrig. En vulkan av känslor överbemannade mig och jag kände mig svimfärdig.
+Jag öppnade brevet, det allra första livstecknen från min biologiska pappa och jag hade hunnit bli 20 år. Jag satt ner i soffan när jag läste brevet och tårarna bara forsade. Hade jag inte fysiskt kunna känna brevet hade jag inte trott det var sant.
+Vi brevväxlade ett tag och bestämde att vi skulle ses. Vi bestämde en tid och jag kommer ihåg att den första snön kom samma dag som han skulle köra så många mil för att träffa mig och jag oroade mig för väglaget. Jag var så förväntansfull, så otroligt väntansfull. Jag brukar säga att jag var Allers förväntansfull. Min mamma prenumererar på Allers och jag läste nog vartenda nummer när jag bodde hemma. Alldeles speciellt läste jag artiklarna om återföreningar. Det var alltid så lyckliga återföreningar och det skrevs om den sista pusselbiten i personers liv och hur dom blev fullkomliga och hela när just den där brodern, systern, föräldern eller annan människa som varit saknad blev hittad och återföreningen var ett faktum.
+Den förväntan hade jag inom mig och blandades med en enorm nervositet. Vad skulle han tycka om mig?
+Jag stod utanför pizzerian vi skulle träffas, snöflingorna kittlade mig i ansiktet. Det var mörkt och kompakt på något luftigt sätt.
+Nu kissar jag nästan på mig jag är så nervös.
+Han stiger ur bilen och går fram till mig och ger mig en kram. Han kände igen mig direkt då jag hade skickat foto på mig i ett brev för några veckor sedan. Vi går in och sätter oss, pratar lite. Beställer en pizza efter ett tag och jag känner – ingenting. Jag känner absolut ingenting för den främmande människan som sitter framför mig. Vi pratar, det är artigt men inte mer. Han berättar lite om hans liv tillsammans med min mamma och jag lyssnat självklart, men intresset falnar för den främlingen framför mig.
+Jag är grundlurad av min själv. Här har jag jobbat upp en Allers förväntan och känner inte ett dugg. Jag är så besviken. Detta skulle ju vara något annat. Jag skulle ju känna glädje och lycka, men nej, ingenting. Helt nollad är jag inför främlingen. Visserligen är han trevlig, men jag ville ju ha mer. Vi åt färdigt och konverserade under tiden och sedan gick vi ut, gav varandra en kram, lovade att vi skulle ses igen och sedan åkte han.
+Detta är nu tjugo år och varsitt brev sedan.
+I dag har jag, för barnens skull, skrivit ett brev till honom igen. Han får det i morgon. När jag skulle leta upp hans adress på Ratsit så ser jag att han fyller år i morgon, det hade jag ingen aning om.
+Jag tänker se det som ett positivt omen. Hoppas att han svarar.
+Jag snubblade över en gammal artikel i Aftonbladet från 2004. Den handlar om en pappa som gav upp. Han orkade inte kämpa mer mot mamman och myndigheterna. Jag blev väldigt berörd och frågade några av mina vänner om det kunde finnas någon som kände igen Martin. Inte för att jag vill veta vem han är utan för att jag vill veta vad som hänt på 7 år. Har ett barn förlorat sin pappa för tid och evighet för att han inte sågs som en förälder lika viktig som barnets mamma? Om det är någon som känner igen denna historia och bara kunde skriva några ord i kommentatorsfältet och berätta vad som hänt efter denna artikel skulle jag bli tacksam.
+"Martin, 30, har kämpat för sin dotter i tio år.
+I tisdags bestämde hovrätten att mamman får enskild vårdnad – trots att hon saboterat hans försök att få umgås med sin dotter.
+– Att få rätt till enskild vårdnad genom att tiga, att inte ge någon information, att sabotera umgänge. Hur kan det vara svensk rättspraxis? skriver han.
+Han slutar kämpa nu.
+Jag heter Martin och har ända sedan min dotters födelse 1994 fått kämpa för att få ta del av hennes liv.
+Min dotter föddes cirka fyra månader för tidigt, hon vistades lång tid på sjukhuset.
+Det var jag som bytte de första blöjorna på henne, jag vakade dag och natt vid kuvösen tills nattpersonalen sa åt mig att ”du måste sova”. Det var en påfrestande tid för både mig och hennes mor. Vi bröt vårt förhållande redan under sjukhusvistelsen.
+När dagen för hemresan kom tog flickans mamma hem henne till mormor. Där hade hon tänkt att de nu skulle bo. Hon sa att jag alltid skulle vara välkommen dit för att ”hälsa på” mitt barn.
+Jag fick då veta innebörden av ”alltid vara välkommen”: I god tid före mitt besök skulle jag anmäla att jag skulle komma och hälsa på. För det mesta så ”passade det inte”, och när det väl var okej fick jag titta på min dotter genom fönstret från utomhusverandan.
+Du får inte komma in
+Jag tänkte att så här kan det väl inte få gå till, och tog kontakt med ett juridiskt ombud. Detta ledde till att mamman sökte – och fick – enskild vårdnad i början av 1996.
+Jag fick ett minimalt dagsumgänge med upptrappning där jag skulle träffa min dotter vissa tider under dagen.
+Detta kunde ju ha fungerat – om mamman hade öppnat dörren. Visst öppnade hon dörren de första gångerna när det var frågan om besök endast hemma hos henne.
+Men när upptrappningen skulle börja och jag skulle få ta med vår flicka några timmar så var dörren plötsligt stängd. Då kontaktade jag socialen. De sa att vi var välkomna dit på möte, och att eftersom jag inte träffat min dotter på så lång tid så måste jag börja om min invänjningsperiod.
+Denna process upprepades gång på gång tills dörren helt plötsligt inte öppnades alls.
+Advokaten sa att vi måste gå in och begära verkställighet av tingsrättens umgängesdom. Jag fick rätt i både länsrätt och kammarrätt och modern fick ett vitesföreläggande. Vi var i tingsrätten ytterligare tre gånger för att försöka få ett umgänge som varade längre än en helg.
+Detta var dock helt resultatlöst och umgängessabotaget fortsatte ända till i februari 2002, samma år som min flicka skulle fylla åtta år.
+Då fick vi gemensam vårdnad, vilket gav mig möjlighet att i alla fall få ta del av vad som hände min dotter – i skola, på sjukhus.
+Umgängessabotaget fortsatte, men inte i samma utsträckning som tidigare. Jag var tvungen att ha med mig en vän vid varje hämtningstillfälle, som kunde intyga om dörren varit stängd.
+När jag kontaktade socialen hänvisade de till polisen, och polisen i sin tur, de hänvisade till socialen. Det vill säga att man kan sabotera ett umgänge precis hur mycket som helst utan någon som helst åtgärd.
+Att begära verkställighet av länsrättsdomen kändes rätt meningslöst med tidigare facit i hand.
+I våras fick min dotters mamma enskild vårdnad igen. Mamman var uppenbarligen inte nöjd med att vi hade gemensam vårdnad, och väntade därför bara in ny rättshjälpsersättning för att kunna söka enskild vårdnad.
+Fram till dess så var hennes uppdrag att se till att samarbetet inte skulle fungera på något sätt. Det gav utdelning.
+I tisdags fastställde hovrätten tingsrättsdomen som gav mamman enskild vårdnad.
+Vi anses båda vara lämpliga vårdnadshavare. Orsaken är att det klart och tydligt framgår att modern vägrar att kommunicera eller ha någon som helst kontakt med fadern, det vill säga mig.
+Socialen, tingsrätten och hovrätten verkar gömma sig bakom talesättet ”det är aldrig ens fel att två träter”.
+De anser att konflikten är så pass djup att detta är till skada för barnet, och eftersom inte modern vill lösa konflikten, och min dotter mestadels har bott med sin mamma, får mamman vårdnaden.
+Jag har aldrig gjort mig skyldig till något som helst brott mot mamman, det har aldrig framkommit att jag försummat mitt åtagande som pappa.
+Jag ställer då frågan: Hur kan man tiga sig till enskild vårdnad?Att få rätt till enskild vårdnad genom att tiga, att inte ge någon information, att sabotera umgänge. Hur kan det vara svensk rättspraxis?
+Hur kan lagen stödja föräldrars egenmäktighet?
+Först nu förstår att jag att många fäder väljer att ge upp. Jag tänker ge upp kampen nu – för att rädda mig själv. För man klarar inte av att ta hur mycket skit som helst."
+Vinsten; Ett barn.
+Världens första IVF-lotteri har startat i England, där föräldraskap ska lottas ut varje månad. Men redan nu har lotteriet fått kritik för att vara oetiskt och har startat en stor debatt i England, skriver The Sun på nätet.
+Välgörenhetsorganisationen To Hatch började den 30 juli 2011 att varje månad lotta ut en fertilitetsbehandling i någon av Englands främsta fertilitetskliniker. To Hatch grundades för att ge stöd till par som hade svårt att få barn på naturlig väg. Lotteriet har beviljats av Gambling Commission. Både par, singlar och homosexuella är välkomna att delta i lotteriet.
+Fertilitetsläkare på varje klinik kommer att bedöma den kliniska genomförbarheten av varje möjlig graviditet. Om en kvinna är över 45 – den övre gränsen för en IVF-behandling i England - kommer hon att erbjudas surrogatmöjlighet genom ett embryo. Är det en man som vinner kommer han att erbjudas donerad spermie.
+Lotterna kostar ca 200 SEK och vinsten är värd ca 250 000 SEK. Skulle en normal IVF behandling misslyckas erbjuds vinnaren donatorägg, reproduktiv kirurgi eller surrogatmödraskap.
+I vinsten ingår också en chaufför som kör vinnarna till kliniken och boende ingår också i vinsten. Vinnarna får en mobiltelefon så att de kan hålla kontakt med sjukvårdare när så än önskas.
+De eventuella vinsterna från lotteriet kommer att gå tillbaka till organisationen och användas till för att kunna ge support till barnlösa par.
+Lotteriet har redan fått kritik för att vara oetiskt och reducera mänskligt liv till en vara.
+- Skapandet av mänskligt liv borde inte reduceras till ett lotteri. I stället borde mer pengar satsas på att forska i fertilitetsproblem, säger Josephine Quintaville från gruppen Comment on Reproductive Ethics. Hon menar också att detta förnedrar hela den mänskliga fortplantningen.
+Men Camille Strachen, grundare av To Hatch, slår i från sig kritiken.
+- Vi hoppas att lotteriet kan avhjälpa den redan hårt belastade allmänna sjukvården och lätta något på stressen för par som kämpar med fertilitetsproblem, säger hon till The Sun.
+Religiösa grupper menar att lotteriet säljer det värdefulla människolivet.
+Om det visar sig att lotteriet blir en framgång kommer lotter att säljas i kiosker i hela landet. Dragning kommer eventuellt ske var fjortonde dag istället för en gång i månaden.
+Jag vet inte hur jag skall ställa mig till lotteriet, ena delen av mig tycker tanken metd ett barnlotteri är avskyvärt. Den andra delen tycker det är ett jättebra initiativ då det är dyrt med IVF och genom lotteriet finns chansen att bli förälder trots en liten kassa. Jag kan inte slå mig fri från tanken att målgruppen är så längtansfylld och öppnar gärna plånboken, med andra ord kommer troligen vinsten bli enorm. Är det omtanke eller en smart affärside?
+Kuriosa, världens första provrörsbarn;
+"Tretton minuter före midnatt den 25 juli 1978 förlöstes Louise Joy Brown med kejsarsnitt på Oldham general hospital utanför brittiska Manchester. Flickebarnet vägde 2610 gram och den ansvarige läkaren Patrick Steptoe kunde snart lugna de hundratals journalister som samlats med att ”alla undersökningar visat att barnet är helt normalt”.
+I går läste jag en artikel av Hanns Boris som är en replik till Monica Dahlström-Lannes artikel. Jag tycker den är värd att lyftas fram och spridas.
+"Det enda som är gemensamt för alla mammor som gömmer sina barn är att de vill försvåra relationen mellan barnen och deras pappa. Det skriver Hanns Boris, ensamstående pappa, i en replik till Monica Dahlström-Lannes."
+Inte mammans fel, hon blev tvingad!
+"I en debattartikel gör Monica Dahlström-Lannes ett försök att framställa barn som offer när deras mamma begått ett lagbrott. För att ytterligare spetsa till det hela vinklar Dahlström-Lannes det som att mamman är tvungen att begå detta lagbrott eftersom en domstol tilldömt pappan ensam vårdnad."
+Längre ner skriver han;
+"Så länge föräldraskapet inte är jämställt i lagens mening är det barnen som är förlorarna i vårdnadstvister. Låt oss därför gemensamt ställa upp på en lagstiftning som ger alla föräldrar samma chans att visa sin lämplighet och som ger både mamman och pappan samma rättigheter, men också skyldigheter i vårdnaden om sitt barn. Om båda föräldrarna får dessa förutsättningar kommer det vara lättare för samförståndet att infinna sig och det kommer bli lättare att nå egna och eniga överenskommelser utan att blanda in en domstol. Därför arbetar jag för att gemensam vårdnad automatiskt tilldelas båda föräldrarna så fort föräldraskapet är fastställt - om inte särskilda skäl talar emot detta"
+Läs artikeln i sin helhet
+Det är inte mitt fel.
+Kommentar överflödig
+Jag började fundera på vad det är som gör att vissa människor har så svårt att se sin egen del i sin egen handling och skyller sitt eget handlande på någon utanför sig själv.
+Kim är en tjej som har en svår uppväxt och lever med sin mamma och pappa, båda är alkoholister. I skolan mobbar Kim sin skolkamrat Tintin som är en stillsam person. Hon gör inget väsen av sig utan är ett barn som smälter in. Sköter skolan, har två syskon och lever i en familj där familjerelationen är bra. Tintin har många kompisar.
+Kim däremot är ofta ensam och är väldigt utåtagerande, några vuxna menar att Kim är en värsting trots ung ålder men vet att Kim har det mycket svårt hemma och förstår hennes handlande.
+Skolan sätter in extrahjälp då Kim har svårt att klara av skolarbetet och ligger nu ett år efter. Kim får träffa skolkuratorn för att få hjälp.
+På rasterna ger sig Kim på Tintin. Hon tycker att det börjar bli svårt att vara ute på rasterna. Hon känner sig förföljd och söker ofta skydd i skolans toalett.
+Lite till och du tvingar mig
+Hur agerar skolan och andra vuxna?
+Skolan har konstigt nog svårt att ställa Kim till ansvar för sitt beteende då Kim ses som ett offer på grund av hennes familjerelation. Alla vet att det är synd om Kim och hon ses inte som förövare. Även om Kim har det svårt, gör man varken henne eller Tintin någon tjänst genom att ömma för, förstå och ursäkta henne.
+Tintin får ingen upprättelse för att hon kränks, och riskerar att förlora sin självrespekt. Kim behandlas i själva verket inte som en fullvärdig människa med moraliskt ansvar för sitt agerande. Därmed fråntar man henne den moraliska fostran som varje barn behöver för att kunna utvecklas till en ansvarstagande människa och medborgare.
+Min fråga är hur detta kan påverka framför allt Kim och hennes omgivning i sitt vuxna liv?
+Kim som genom vuxnas offermentalitet inte behöver ta ansvar för sitt handlande.
+Det går några år, Kim har hunnit bli 15 år och äntligen fått sin efterlängtade moped.
+En kväll kör hon mot stan, hon mår dåligt av att se tomma spritflaskor och vill bara därifrån. Hon säger åt sina föräldrar att hon åker en runda, men pratar för döva öron. Båda två har somnat framför tv:n, utslagna av sina egna spritångor. Hon tar en avslagen öl med sig och dricker den innan hon sätter sig på sin moped och kör iväg.
+Det är ditt fel
+Hon har kört någon kilometer när hon ser en grupp med ungdomar, det är flera ur hennes gamla klass och några nykomlingar. Kim fick byta skola när hon gick i sjuan då hon inte kunde sluta mobba bl.a Tintin. Därför har hon inte träffat flera av tjejerna och killarna på länge. Hon kör fram men stannar mopeden ett par meter från gruppen av ungdomar, tar av sig hjälmen och drar handen genom håret för att fixa till frisyren. Hon nickar mot ungdomarna. Några nickar igenkännande, andra vänder bort huvudet.
+Kim lämnar mopeden för att ansluta till de andra. Några bjuder in henne i samtalet, andra går en bit därifrån. Efter en stund ser hon hur en av killarna, Joy, sätter sig på hennes moped och en våg av ilska stiger som en vulkan inom henne. Hon springer fram och klipper till Joy som är helt oförberedd på slaget. Han åker i backen och blir liggande.
+När Joy ligger ner kastar sig Kim över honom och slagen haglar. Några springer fram och sliter upp Kim, andra tar hand om den blödande Joy.
+- Vad i helvete gör du, frågar Nor ilsket?
+- Vaddå, han satte sig på min moppe och det gör ingen utan att åka på stryk, svarade Kim förbannat.
+- Men för helvete, ser du vad du har gjort, frågade Nor och pekade på Joy som blödde ymnigt?
+- Jag, vaddå jag? Det är väl inte mitt fel, det var ju han som tvingade mig att slå honom, svarade Kim.
+- Tvingade dig, frågade Nor som också började bli förbannad?
+- Ja, hade idioten inte satt sig på moppen hade jag inte slagit till honom, svarade Kim. Det är fan inte mitt fel, kom inte och beskyll mig för det, fortsatte Kim som var nära att klippa till Nor som hade fräckheten att ifrågasätta henne.
+Kim slet till sig sin moped och med en rivstart körde hon därifrån och förbannade den jävla Joy som tvingade Kim att slå honom. Hon är helt förvissad om att det inte var hennes fel. Det är inte mitt fel, tänker hon och känner sig upprymd över känslan.
+Det går några dagar, Kim sitter med några polare på Mc Donalds. Mitt i ett samtal hör hon någon nämna hennes namn. Hon spänner öronen och börjar lyssna.
+- Du skulle sett dåren hörde hon någon säga. Hon bara flög på Joy och började puckla på honom, helt utan någon jäkla anledning.
+- Va, svarade någon annan. Är hon inte riktigt klok?
+- Nä, hon är fan inte klok någonstans. Joy satte sig på hennes moppe och då blev hon som galen och slog honom sönder och samman, svarade den andra. Inte nog med det, Kim skyller på Joy och säger att det är Joys eget fel att han fick stryk.
+- Vafaan, är hon helt pucko? Det är väl för fan Kims fel att hon slog Joy? Snacka om att skylla ifrån sig.
+Nu känner Kim hur ilskan bubblar inom henne. Hon reser sig upp och går bort till bordet, ilskan driver henne framåt och hon knyter händerna, hårt. Hon tar en mugg på bordet och häller innehållet över killen som har fräckheten att påstå att det är hennes fel att hon slog till Joy.
+Det är fan inte mitt fel
+Killen flyger upp och i samma stund fäller Kim honom. Hon är så förbannad. Hur har han mage att påstå att det var hennes fel att hon slog Joy. Hade inte Joy satt sig på hennes moppe hade inte Kim varit tvungen att slå ner honom. Och nu har en okänd person tvingat henne ännu en gång att slå någon. Ilskan pulserar inom henne och hon sparkar till en papperskorg som flyger all världens väg när hon stormar ut från Mc Donalds. Hon sätter sig på sin moppe och startar ilsket den. Hon är helt uppfylld av hat mot killen som tvingade Kim att slå honom.
+Det är inte mitt fel, tänker hon när han kör därifrån.
+Kim blev utsatt för negativ offermentalitet redan som barn och det följer henne i hennes liv. Kims person är skapad ur ett ”tyck synd om” perspektiv. Flera stycken har redan fått ta ansvar för att Kim inte fick ta konsekvensen av sitt handlande redan i tidig skolålder. Hennes familjesituation skapade ett offertänk hos vuxna som kunde ha gripit in och styrt upp, satt ner foten och låtit henne ta konsekvensen för sitt handlande. Istället sågs hon som ett offer.
+Min lilla historia visar på hur andra människor får betala priset för den offermentalitet som tycker synd om en förövare istället för att låta denne ta konsekvensen för sitt handlande och ta lärdom. Det är inte mitt fel
+Detta inlägg kom rätt lägligt med tanke på Monica Antonssons senaste bredsida på den trivsamma debattbloggen eller vad den nu kallas numera. Jag bestämde mig till slut. Frågetecknen måste rätas ut. För att kunna göra det var jag tvungen att be Joakim om att få tillgång till samtliga dokument. Även dom han aldrig någonsin har publicerat på sin blogg.
+Jag fick allt inscannat och prydligt upplagt på en tidslinje.
+Jag förklarade vad jag ville med detta inlägg och med hans tillåtelse kommer jag att visa samband som inte kan bortses från. Och som även Monica Antonsson får svårt att förklara för sin nya vänner på polisen.
+"Joakim Ramstedt är tredje bladet i den här treklövern, en icke arbetande rättshaverist med enligt egen uppgift ADHD. Han är djupt involverad i en vårdnadstvist och drivs av hat mot samhället." Skriver Antonsson i sin senaste bloggdrapa. Sedan fortsätter hon:
+"Hon är lite hysterisk kan tyckas, den goda Anna. Detsamma måste man säga om Joakim Ramstedt som är övertygad om att jag är inblandad i hans vårdnadstvist. Varför vet jag inte. Han tror att jag lirar med hans fd svärmor så att han inte får träffa sin dotter.
+Varför i all världen skulle jag göra det? Ge mig ett enda skäl. Jag är urtrött på hans vårdnadstvist! Vill inte höra talas om den ens."
+Det var bara 12 dagar sedan som Monica Antonsson skrev ett e-mail till socialtjänsten som handhar Joakims vårdnadstvist. Joakim skrev i en kommentar att han lämnat in bevis till socialtjänsten gällande dem som förföljt, trakasserat och ljugit om honom offentligt. Det var allt. Inte ett enda namn nämndes. Men denna kommentar gjorde tydligen Monica Antonsson väldigt nervös. Såpass nervös att hon genast kände sig tvungen att tillskriva socialtjänsten och försvara sig mot "anklagelserna". Hon var till och med dum nog att påstå att hon i ett mail fått reda på exakt vad som sagts på det enskilda mötet. Vem som skrev det mailet vill hon inte berätta. Joakim frågade hövligt.
+Nu skriver hon plötsligt på bloggen:"En vecka senare meddelar han att han har överlämnat hundratals skärmdumpar på just detta till socialtjänsten i Kungsbacka." Det är ju en ren lögn! Var det plötsligt inget mail nudå? Hur skall du ha det Monica?
+Jag vet inte om Monica Antonsson kan tala sanning? Kanske har hon glömt hur man gör? Men om det är möjligt skulle hon kanske vilja vara vänlig att förklara följande?
+För ungefär ett år sedan skickade Joakim ett mail till socialtjänsten med rubriken "- Det är nästan bättre om pappan dör, säger Gösta Emtestam. Då kan barnet sörja och gå vidare." Endast någon dag senare var hela mailet ute på Flashback. Avsändare var HenrikJ.
+Joakim hade vidarebefordrat mailet till några riksdagsmän och journalister. Med bland journalisterna på listan fanns Monica Antonsson.
+Då Joakim bad Monica om en förklaring per mail får han svaret: "Du skickade mig det mailet mitt under värsta Bjästastormen när du for ut som värst mot mig i din blogg. Jag förstod inte varför. Troligen var det ett misstag. Hade du inte börjat blogghata mig nu och kalla mig barnskändare så hade jag aldrig kommit ihåg det."
+I det svaret döljer sig tre fel. 1. Joakim har aldrig kallat Monica för barnskändare. 2. Han for inte ut mot Monica under Bjästastormen. 3. Det förklarar inte hur HenrikJ fått mailet. Inte heller varför? Men ett är säkert. Det var Monicas kopia som snabbt som attan letade sig ut på Flashback. Utlagd av det värsta trollet av dom alla i tråden.
+Något som också är intressant i sammanhanget är att i mailet till socialtjänsten så stod det bland annat om en missad umgängestid. Något som i HenrikJs version kom att handla om att Joakim hade varit så upptagen med Bjästafallet att han därför skulle ha glömt bort umgänget.
+Monica skrev: "Du skickade mig det mailet mitt under värsta Bjästastormen när du for ut som värst mot mig i din blogg."
+Här kan man börja ana Monica Antonssons sanna natur. Om Joakim kritiserar henne på minsta sätt, så drar hon sig inte alls för att sabotera för honom i hans vårdnadstvist. I rent hämndsyfte lägger hon sig alltså i den vårdnadstvist som hon inte bryr sig det minsta om. Att det handlar om ett barn rör inte Monica i ryggen.
+Ingen kritiserar Monica Antonsson. Då kan till och med en människas barn få betala priset.
+Då Joakim inte nöjde sig med svaret och bad om att få HenrikJ:s mail vidarebefordrat så började det komma lama ursäkter om utlovad anonymitet.
+Sedan när började Monica Antonsson respektera människors anonymitet? Speciellt troll som HenrikJ som dessutom är otrevliga mot henne? Men HenrikJ åtnjuter tydligen fullt beskydd hos Monica, trots att han enligt henne är ett fegt otrevligt nättroll som bara orsakar henne elände. Det är märkligt.
+Dessutom skriver HenrikJ att han redan hade mailet innan Monica var vänlig nog att förse honom med det. Inget annat av Joakims mail har någonsin letat sig ut till HenrikJ. Dessutom tror inte jag att han är riksdagsman. Skvallertidningsjournalist är ett troligare yrke.
+HenrikJ själv hävdar på Flashback att han skulle stått med bland dom namn som fick det ursprungliga mailet. Alltså tillsammans med Antonsson. https://www.flashback.org/sp24080508
+"Självklart har mailet kommit till min kännedom på laglig väg.
+Daddy kopierade en otal mängd personer, kanske främst för att sätta press på mottagaren som såg alla kopierade mailadresser, han använde knappast "hemlig kopia" i sitt adresserande.
+Två av mottagarna var dessutom riksdagsmän och då är handlingen per automatik dessutom offentlig."
+Det påståendet är enbart löjligt. Jag har sett listan med mottagare och kan garantera att Monica Antonsson är den enda på den som inte står över alla misstankar. Börjar bilden klarna än?
+HenrikJ vet exakt vad som står i mormors inlagor
+Kommer ni ihåg när HenrikJ började skriva om att Joakim skulle ha en diagnos autism? Han skrev det på Flashback och många hakade på.
+Detta skrev Snefrid Lunde i ett brev till berörda socialsekreterare i Kungsbacka Kommun den 17 maj 2009. Lägg märke till hur hon uttalar sig om att Joakim skulle vara autistisk och hur plötsligt...
+...HenrikJ påstår precis samma om Joakim. Tillfällighet, absolut inte. Skulle man kunna dra slutsatsen att HenrikJ på något sätt har fått ta del av detta dokument som mormodern skrev?
+Här skriver Snefrid att Joakim är autistisk i ett dokument hon kallar "Information till den det berör" 8 Mars 2010
+"Var som är av stor betydning är att Joakim i själva verket har en dubbeldiagnos; ADHD med Uppmärksamhetsstöring. Själv har han uttalat att han har en form av Autism."
+HenrikJ påstår att information som han (ja det får bli han även om jag tvivlar starkt) delger kommer från Joakim själv.
+HenrikJ är inte mormor skriver han och har således inte författat brevet till de berörda socialsekreterarna och Joakim har aldrig lagt upp det här brevet. Då är frågan, vem har HenrikJ fått uppgifterna från?
+HenrikJ skriver också om behandlingshemmet Korpberget. Och som ett under av tillfälligheter...
+...skriver även Mormor om Korpberget i brevet till de berörda socialsekreterarna och ni ser ju vem det är som börjar att prata om sexmissbruk, vilket ni som har följt med länge vet att det var HenrikJs favorit under ett tag att skriva om.
+Saken är den emellertid att Joakim aldrig vistats på något behandlingshem. Någonsin. Men HenrikJ har kanske råkat GISSA att han gjort det? Och dessutom råkat gissa på exakt samma behandlingshem som nämns i mormors inlaga?
+HenrikJ skriver på Monica Antonssons blogg att sonen R fick krypa under ett bord.
+Och som av en ytterligare märklig tillfällighet skriver C den 16 juni 2009 ett brev som hon kallar "Angående Joakim, före detta sambo S Johansson och deras son R" och vad är det vi kan läsa här?
+"R gömde sig under ett bord då han inte ville vara med på den festen"
+Vi vet alla att HenrikJ har skrivit mängder med inlägg där han skriver att Joakim inte har mat hemma till barnen, jag valde ett citat av många författade av HenrikJ.
+C skriver i samma dokument som ovan; "Joakim såg inte till att R fick mat, att det var mat hemma till honom."
+Tillfällighet? No Way! Glöm för all del inte bort att HenrikJ inte känner vare sig C eller mormor. Så VEM är det då som förser HenrikJ med dokumenten ur socialens register?
+Här är en av HenrikJs otaliga inlägg om swingerklubbar på Monicas blogg. "Likväl som han försöker få med sig sällskap till swingerklubbar. Eller att han kan beklaga sig verbalt utanför bloggar om sin "sexuellt hämmade" dåvarande partner."
+". Daddy har även berättat att han tyckte C var sexuellt hämmad som inte gillade att klä sig i småflickskläder och hänga med ut på swingersklubbar."
+Här är ett mail mellan C och Monica Antonsson. Men hur var det nu hon sa...?
+Här är ur ett annat mail mellan C och Monica Antonsson som bara haft kontakt via tele 2008.
+Här finns alltihop som vi vant oss att se HenricJ påstå med.
+”Han ville gå på porrklubb och swingersklubb”
+”Filmerna var sådana där vuxna kvinnor klär ut sig till småflickor”
+Ooops HenrikJ, var fick du dina uppgifter ifrån nu igen? Jag behöver väl inte nämna att HenrikJ har skrivit om detta på Flashback också i hundratals inlägg. Konstigt också att inte sonens mamma nämner något om dessa sidor hos Joakim i sina vittnesmål? Dom levde ju ihop i sex år.
+En annan sak som slår mig då jag tittar igenom alla dom dokument som jag nu fått ta del av. Smutskastningen är enkelriktad. Den hemska smutskastning av mamman som dom av HenrikJ anförda trollen på Flashback skriker om hittar jag inte i dokumenten.
+Joakim är orolig för sin dotter och kritisk till de upprepade umgängessabotagen. Han beskriver denna oro, vilket måste vara hans rätt, men samtidigt talar han ofta även om mamman i positiva ordalag. Något positivt om honom i mammans och mormoderns inlagor har jag däremot inte sett ett spår av. Bara exakt samma anklagelser och samma smutskastning som man nu kan läsa på 1400 sidor flashbacktråd och i otaliga inlägg och kommentarer på Monica Antonssons blogg.
+Och så var det det där med dom påstådda hoten mot meningsmotståndarnas barn som HenrikJ började skriva om. Den Joakim jag känner skulle aldrig hota någon. Det tror jag även alla andra som känner honom skulle skriva under på.
+Men titta på den här kommentaren skriven av Marika Sjelin (Micro113) på Flashback. Den försvann lika fort som den kom in, men hann ändå sparas.
+"Mina anhöriga är inte ensama om att vara utsatta, vi har ett litet nätverk av fler -- för övrigt det enda nätverk jag varit inblandad i. En del har valt anmäla de anomyna hoten, en del har bara valt att söka upp andra uthängda och via dem fått kontakt med andra hotade.
+Henrik har stöd för de uppgifter han lägger ut om att människor har blivit hotade, så mycket kan säga som är en av de som direkt berörts av dessa hot. Hoten är direkt adresserade från Daddy och de kommer i olika former, de riktas främst mot husets barn och de anger att man att har god kartläggning om vad som försigår i hushållet och hur man skall komma åt dess medlemmar samt att det handlar om vad som kan hända olika familjemedlemmar om det inte blir tyst på olika nick på främst FB."
+Här riktas direkta allvarliga brottsanklagelser mot Joakim som påstås personligen ha hotat Sjelins barn. Om han hade gjort det, varför polisanmäldes inte det i så fall?
+Senare har HenrikJ slingrande förklarat bort de här påståendena med att det inte var Daddy personligen som hotat utan hans hemska kompisar bla bla. Det är inte vad som påstås i Sjelins inlägg.
+Att Monica och Sjelin haft kontakt via telefon bekräftar Monica i ett mail. Samtidigt som hon försöker kasta misstankar om att det skulle vara Sjelins man som är HenrikJ.
+"Har du aldrig funderat på att ringa upp Marika S?Jag gjorde det. En man svarade. Det lät som att han höll på att svimma när jag sa mitt namn. Och hon lät hur chockad som helst hon också. Så nog finns det minst ytterligare en person på numret som är väl insatt i bloggvärlden. Du kan ha rätt i dina misstankar."
+Vi har ett litet nätverk, skriver Marika Sjelin. Och det är nog helt sant. Och jag kan sätta mitt högra öga på att en medlem av detta nätverk heter Monica Antonsson. Monica Antonsson är nämligen en kvinna som är kapabel att hänga ut namn, bild och adress på personer på sin blogg och påstå att dom beställt barnporr från Norrköpings tingsrätt. Kalla dom för pedofilkramare, för att i nästa ögonblick elda upp bevisen i utegrillen, för att i nästa stund lämna dom inte alls uppeldade bevisen till polisen. Som kan låtsas vara vän med någon, äta trevliga middagar och åka på resor till Spanien och samtidigt driva anonyma hatbloggar bakom deras rygg. Som inte drar sig för att i rent hämndsyfte lägga sig i rättssaker som rör ett barns liv och framtid, för att i nästa stund förneka att hon någonsin gjort det, som upplåter sin blogg till den ena vidriga, hånande, kränkande och förklenande kommentaren efter den andra. Sedan när människor med rätta blir heligt förbannade på henne så springer hon till polisen och drar ihop en rent makalös historia om hur hon blir förföljd och hotad av hemska män i höghus, farliga 34 åriga mammor, samvetslösa bilnasare och arbetslösa bloggare i skogskojor. Jag betvivlar men hoppas att åklagaren väcker åtal. Då kommer sanningen om hur allt gått till kanske att utredas.
+Om det är något som Monica Antonsson verkligen borde frukta så är det detta. Inte påhittade faror från hemska och farliga pappor, som bara är rättmätigt förbannade på tantens förtal, lögner och falska anklagelser.
+
+FÃ¶rhelvete jÃ¤mfÃ¶r er inte med hv och fÃ¤rjestad tack! Det Ã¤r inte pengar som Ã¤r nyckeln till deras framgÃ¥ng! Det Ã¤r en stark organisation, trygghet, en vagga fÃ¶r framtida storspelare, satsning pÃ¥ dessa varvat med bra scoutning, det finns tyvÃ¤rr ingen av dessa kvaliteer i khk och dÃ¥ vill man ta genvÃ¤g med stora plÃ¥nboken som sista utvÃ¤g… sÃ¥ fÃ¶r allt i vÃ¤rlden, jÃ¤mfÃ¶r er inte med ett riktigt lag som hv!
+Ni som Ã¤r upprÃ¶rda Ã¶ver Metrobloggens nya utseende Ã¤r som ett gÃ¤ng gamla pensionÃ¤rer, ”sÃ¥ hÃ¤r ska det vara, fÃ¶r sÃ¥ har det alltid varit … inga nymodigheter, fÃ¶r det klarar inte jag…!”
+Hamnade pÃ¥ en vÃ¥rdcenral som min vÃ¥rdcentral sammarbetar med och fick dÃ¤r en jÃ¤ttebra lÃ¤kare som lyssnar och har hjÃ¤lpt mig, inte misstrott! Jag har nu listat om mig sÃ¥ jag gÃ¥r hos han sÃ¥ prova att lista om dig, har du tur fÃ¥r du en lÃ¤kare och inte ett pucko!
+Vilken hÃ¤rlig helg ni verkar ha haft! Man kanske skulle boka sig ett rum? Att komma ivÃ¤g utan barn gÃ¶r man ju inte sÃ¥ ofta… Det allra fÃ¶rsta jag gÃ¶r, om du vill veta;), det Ã¤r att slita bort de lÃ¤skiga Ã¶verkasten. Hu, vad Ã¤ckliga jag tycker de Ã¤r. Sedan spanar jag in badrum och sedan sÃ¤ngen. Och sÃ¥ mÃ¥ste det finnas internet sÃ¥klart. Ha en hÃ¤rlig sÃ¶ndag. KRAM
+Mindre ovanligt?Hedvig, om du verkligen ville säga "mindre ovanliga i gammelmedia", så ger "flippa* ur" 175 träffar i svensk press från 2012, det kanske verkligen kan sägas vara mindre ovanligt.
+Hej! Gjorde ditt recept pÃ¥ Het Kycklinggryta ikvÃ¤ll, men tog rÃ¤kor istÃ¤llet fÃ¶r kyckling och tillagade bara pÃ¥ spisen. Blev supergott!! Till det blev det tagliatelle och vitlÃ¶ksbrÃ¶d. Tack fÃ¶r att du ger inspiration till matlagning!
+och hallÃ¥, nu fÃ¶rst mÃ¤rkte jag att det var du Marica som kommenterat. Som jag till och med KÃ¤NnEr. Vilken kul blogg du har, och vad kul att du hittat till min blogg ocksÃ¥. Kul .
+Vilket gym gick du pÃ¥ i New York?Hur upplevde du att det var att skaffa vÃ¤nner och sÃ¥ i skolan? (fÃ¶rlÃ¥t fÃ¶r att jag alltid bombaderar dig med frÃ¥gor – men det Ã¤r bara fÃ¶r att jag Ã¤r sÃ¥ nervÃ¶s/spÃ¤nd och exalterad infÃ¶r flytten
+SÃ¥ synd att du inte var kvar nÃ¤r jag var pÃ¥ besÃ¶k, jag kunde ha vinkat till dig pÃ¥ balkongen! 😉 Ja, det var ett underbart hotell tydligen, ingen mellanklass som det vi bodde pÃ¥. Det var helt och rent, men hÃ¥Ã¥Ã¥Ã¥rda sÃ¤ngar 🙁 Men jag saknar solen och vÃ¤rmen!! HÃ¤rliga bilder har du hÃ¤r! Kram!!
+Michel,Jag har funderingar pÃ¥ att Ã¥teruppta min cykeltrÃ¤ning. Jag gÃ¶r det fÃ¶r att jag Ã¤r less pÃ¥ att vÃ¤nta pÃ¥ att min fot skall bli tillrÃ¤ckligt bra fÃ¶r lÃ¶pning. Jag har problem med en klÃ¤md nerv i foten. Nu till frÃ¥gan.Jag skulle vilja kÃ¶ra bÃ¥de landvÃ¤g och i terrÃ¤ngen (Ã¥tminstone i lÃ¤ttare terrÃ¤ng), men jag har bara rÃ¥d med 1 cykel. Har du nÃ¥gon idÃ© vad jag skall kÃ¶pa?
+Haha det var bara en rolig omskrivning. det var en bild pÃ¥ medeltida tortyr i nÃ¥t slags trÃ¤snitt whatever och texten TORTURE ovanfÃ¶r. nÃ¥t om den gamla tidens Google – alltsÃ¥ ett sÃ¤tt att fÃ¥ information…
+skriver:Tycker definitivt att ni ska granska psykvÃƒÂ¥rden, har sett vad som hÃƒÂ¤nder dÃƒÂ¤r och det gÃƒÂ¥r verkligen inte rÃƒÂ¤tt till!!!!
+Jag strÃ¤var efter att hitta en ett-ords-rubrik. Det Ã¤r en liten egen tÃ¤vling jag har skapat fÃ¶r mig sjÃ¤lv. Och ibland lyckas jag bra, hittar ett ord som Ã¤r litet vitsigt och mÃ¥ngtydigt. Men jag har inte mÃ¤rkt att detta skulle ha nÃ¥n inverkan pÃ¥ antalet lÃ¤sare/kommentarer, sÃ¥ det fÃ¶rblir mitt eget lilla nÃ¶je!
+
