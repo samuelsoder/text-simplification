@@ -24,7 +24,7 @@ def parse_to_raw_content(source_base_name: str, target_dir: str):
     while True:
         try:
             source_file = open(f'{source_base_name}{file_no}.txt')
-            target_file = open(f'{target_dir}/raw_content_{file_no}', 'w')
+            target_file = open(f'{target_dir}/pt_head_{file_no}.json.gz', 'w', encoding='utf-8')
 
             sequence = ''
 
