@@ -4,7 +4,7 @@ import sys
 import time
 
 
-def split_file(path: str, lines_per_file: int, target_dir: str):
+def split_file(path: str, lines_per_file: int, target_dir: str, nb_files=None):
     """Splits file at path into smaller files"""
     files_created = 0
     start_time = time.time()
@@ -15,6 +15,8 @@ def split_file(path: str, lines_per_file: int, target_dir: str):
         if line_no % lines_per_file == 0:
             if small_file:
                 small_file.close()
+                if files_created == nb_files:
+                    break
             small_filename = f'{target_dir}/split_{line_no // lines_per_file}.txt'
             files_created += 1
             small_file = open(small_filename, 'w')
@@ -35,7 +37,15 @@ def main():
         shutil.rmtree(target_dir)
     finally:
         os.mkdir(target_dir)
-        split_file(args[1], int(args[2]), target_dir)
+
+    path_to_file = args[1]
+    nb_lines = int(args[2])
+    try:
+        nb_files = int(args[3])
+    except IndexError:
+        nb_files = None
+
+    split_file(path_to_file, nb_lines, target_dir, nb_files)
 
 
 if __name__ == '__main__':

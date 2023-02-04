@@ -51,7 +51,7 @@ def parse_to_raw_content(source_base_name: str, target_dir: str):
         except FileNotFoundError:
             break
 
-    result_file = open('out/raw_content/parse_results', 'w')
+    result_file = open(f'{target_dir}/parse_results', 'w')
     result_file.write(f'Files parsed: {file_no} \n')
     result_file.write(f'Number of sequences parsed: {no_sequences} \n')
     result_file.write(f'Time taken: {time.time() - start_time} seconds')
