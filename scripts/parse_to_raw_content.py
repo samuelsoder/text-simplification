@@ -1,3 +1,4 @@
+import gzip
 import json
 import os
 import shutil
@@ -12,7 +13,7 @@ def add_raw_content(target_file: TextIO, sequence: str):
     target_file.write(json_line)
 
 
-def parse_to_raw_content(source_base_name: str, target_dir: str):
+def parse_to_raw_content(source_base_name: str, target_dir: str, language='sv'):
     """Function for parsing the files in the source_dir to files with objects
     like { raw_content: *text* } to accommodate MUSS input. Parsed files
     stored in target_dir."""
@@ -24,7 +25,7 @@ def parse_to_raw_content(source_base_name: str, target_dir: str):
     while True:
         try:
             source_file = open(f'{source_base_name}{file_no}.txt')
-            target_file = open(f'{target_dir}/pt_head_{file_no}.json.gz', 'w', encoding='utf-8')
+            target_file = gzip.open(f'{target_dir}/{language}_head_{file_no:04d}.json.gz', 'wt', encoding='utf-8')
 
             sequence = ''
 
