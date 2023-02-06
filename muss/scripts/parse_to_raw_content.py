@@ -7,6 +7,14 @@ import time
 from typing import TextIO
 
 
+def try_arg(args, index, default):
+    try:
+        val = args[index]
+    except IndexError:
+        val = default
+    return val
+
+
 def add_raw_content(target_file: TextIO, sequence: str):
     obj = {'raw_content': sequence}
     json_line = json.dumps(obj, ensure_ascii=False) + '\n'
@@ -60,18 +68,15 @@ def parse_to_raw_content(source_base_name: str, target_dir: str, language='sv'):
 
 def main():
     args = sys.argv
-    try:
-        source_dir = args[1]
-        target_dir = args[2]
-    except IndexError:
-        source_dir = f'{os.path.dirname(os.path.abspath(__file__))}/../out/splits/split_'
-        target_dir = f'{os.path.dirname(os.path.abspath(__file__))}/../out/raw_content'
+
+    source_base = try_arg(args, 1, f'{os.path.dirname(os.path.abspath(__file__))}/../out/splits/split_')
+    target_dir = try_arg(args, 2, f'{os.path.dirname(os.path.abspath(__file__))}/../out/raw_content')
 
     try:
         shutil.rmtree(target_dir)
     finally:
-        os.mkdir(target_dir)
-        parse_to_raw_content(source_dir, target_dir)
+        os.makedirs(target_dir)
+        parse_to_raw_content(source_base, target_dir)
 
 
 if __name__ == '__main__':
