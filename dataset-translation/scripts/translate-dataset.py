@@ -70,8 +70,8 @@ def translate_dataset(source_file: str, target_dir: str, tokenizer: str, model: 
             no_lines += 1
             translation_time += time.time() - sentence_time
             print_progress_bar(no_lines, total_lines,
-                               prefix='Translating languages...',
-                               suffix=f'avg time per translation: {translation_time / no_lines}')
+                               prefix='Translating... ',
+                               suffix=f'nb sentences done: {no_lines}, avg time per: {translation_time / no_lines}')
 
     result_file = open(f'{target_dir}/results', 'w')
     result_file.write(f'Lines translated: {no_lines} \n')
