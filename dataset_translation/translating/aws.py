@@ -22,7 +22,7 @@ def translate_dataset(source_file: str, target_dir: str):
 
     target_file = open(f'{target_dir}/aws-sv-translated.txt', 'w')
 
-    print('---- Starting translation ----')
+    print('---- Starting translation through AWS ----')
     print(f'Total number of sentences to translate: {total_lines}')
     print_progress_bar(no_lines, total_lines, 'Translating languages...')
 

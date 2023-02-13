@@ -25,7 +25,7 @@ def translate_dataset_with_model(source_file: str, target_dir: str, tokenizer: s
 
     target_file = open(f'{target_dir}/sv-translated.txt', 'w')
 
-    print('---- Starting translation ----')
+    print('---- Starting translation using Huggingface model ----')
     print(f'Total number of sentences to translate: {total_lines}')
     print_progress_bar(no_lines, total_lines, 'Translating languages...')
     with open(source_file) as file:
