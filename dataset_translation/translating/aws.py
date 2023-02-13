@@ -1,7 +1,7 @@
 import time
 import boto3
 from botocore.client import BaseClient
-from dataset_translation.utils.progress_bar import print_progress_bar
+from dataset_translation.helpers.progress_bar import print_progress_bar
 
 
 def translate_sentence(sentence, translator: BaseClient):
@@ -13,7 +13,6 @@ def translate_dataset(source_file: str, target_dir: str):
     print("Setting up session")
     session = boto3.Session(profile_name="ilt-staging-admin")
     translator = session.client(service_name="translate", region_name="eu-central-1")
-    translate_sentence("Hi my name is Samuel", translator)
 
     start_time = time.time()
     translation_time = 0
@@ -32,7 +31,7 @@ def translate_dataset(source_file: str, target_dir: str):
             line = file.readline()
             if len(line) == 0:
                 break
-            target_file.write(f'{translate_sentence(line, translator)}\n')
+            target_file.write(f'{translate_sentence(line, translator)}')
             no_lines += 1
             translation_time += time.time() - sentence_time
             print_progress_bar(no_lines, total_lines,
