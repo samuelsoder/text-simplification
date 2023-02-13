@@ -24,7 +24,7 @@ def split_file(path: str, lines_per_file: int, target_dir: str, nb_files=None):
     if small_file:
         small_file.close()
 
-    result_file = open('out/splits/split_results', 'w')
+    result_file = open(f'{target_dir}/split_results.txt', 'w')
     result_file.write(f'Files created: {files_created} \n')
     result_file.write(f'Lines per file: {lines_per_file} \n')
     result_file.write(f'Time taken: {time.time() - start_time} seconds')
