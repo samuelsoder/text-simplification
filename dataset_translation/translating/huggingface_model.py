@@ -41,7 +41,7 @@ def translate_dataset_with_model(source_file: str, target_dir: str, tokenizer: s
                                prefix='Translating... ',
                                suffix=f'nb sentences done: {no_lines}, avg time per: {translation_time / no_lines}')
 
-    result_file = open(f'{target_dir}/results', 'w')
+    result_file = open(f'{target_dir}/results.txt', 'w')
     result_file.write(f'Lines translated: {no_lines} \n')
     result_file.write(f'Time taken: {time.time() - start_time} seconds\n')
     result_file.write(f'Average time per sentence: {translation_time / no_lines} seconds\n')

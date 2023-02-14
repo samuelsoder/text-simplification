@@ -1,0 +1,4 @@
+lxml>=4.9.2
+boto3>=1.26.69
+botocore>=1.29.69
+transformers>=4.26.0
