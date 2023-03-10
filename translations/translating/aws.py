@@ -1,7 +1,7 @@
 import time
 import boto3
 from botocore.client import BaseClient
-from dataset_translation.helpers.progress_bar import print_progress_bar
+from helpers.progress_bar import print_progress_bar
 
 
 def translate_sentence(sentence, translator: BaseClient):
@@ -17,7 +17,7 @@ def translate_dataset(source_file: str, target_dir: str):
     start_time = time.time()
     translation_time = 0
     no_lines = 0
-    total_lines = 15
+    total_lines = 88837  # Change according to dataset
 
     target_file = open(f'{target_dir}/aws-sv-translated.txt', 'w')
 
@@ -34,9 +34,10 @@ def translate_dataset(source_file: str, target_dir: str):
             target_file.write(f'{translate_sentence(line, translator)}')
             no_lines += 1
             translation_time += time.time() - sentence_time
-            print_progress_bar(no_lines, total_lines,
-                               prefix='Translating... ',
-                               suffix=f'nb sentences done: {no_lines}, avg time per: {translation_time / no_lines}')
+            if no_lines % 100 == 0:
+                print_progress_bar(no_lines, total_lines,
+                                   prefix='Translating... ',
+                                   suffix=f'nb sentences done: {no_lines}, avg time per: {translation_time / no_lines}')
 
     result_file = open(f'{target_dir}/results', 'w')
     result_file.write(f'Lines translated: {no_lines} \n')

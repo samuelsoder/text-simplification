@@ -1,6 +1,6 @@
 import time
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-from dataset_translation.helpers.progress_bar import print_progress_bar
+from helpers.progress_bar import print_progress_bar
 
 
 def translate_sentence_with_model(tokenizer, model, sentence):

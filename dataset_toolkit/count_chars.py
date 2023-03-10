@@ -2,7 +2,7 @@ import time
 import os
 import sys
 sys.path.append(f'{os.path.dirname(os.path.abspath(__file__))}/..')
-from dataset_translation.helpers.args import find_arg
+from helpers.args import find_arg
 
 
 def count_chars(source_file, target_dir):
@@ -10,6 +10,7 @@ def count_chars(source_file, target_dir):
 
     words = 0
     chars = 0
+    lines = 0
     with open(source_file) as file:
         while True:
             line = file.readline()
@@ -17,8 +18,10 @@ def count_chars(source_file, target_dir):
                 break
             words += len(line.split(' '))
             chars += len(line)
+            lines += 1
 
     result_file = open(f'{target_dir}/results.txt', 'w+')
+    result_file.write(f'Number of lines: {lines} \n')
     result_file.write(f'Number of words: {words} \n')
     result_file.write(f'Number of characters: {chars} \n')
     result_file.write(f'Time taken: {time.time() - start_time} seconds\n')
