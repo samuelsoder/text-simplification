@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 11,
+      "src": "Och drömde förunderliga drömmar.\n",
+      "dst": "Har drömt underbart konstiga drömmar.\n"
+    },
+    {
+      "id": 12,
+      "src": "Vill du delta i vår undersökning?\n",
+      "dst": "Vill du vara med i undersökningen?\n"
+    },
+    {
+      "id": 13,
+      "src": "Så nu undrar jag om du kan hjälpa mig lite.\n",
+      "dst": "Tänkte se om du kan hjälpa mig lite.\n"
+    },
+    {
+      "id": 14,
+      "src": "Sedan lång tillbaka i tiden har folk gillat att klä ut sig.\n",
+      "dst": "Sedan urminnes tider har personer gillat att klä ut sig.\n"
+    },
+    {
+      "id": 15,
+      "src": "Någon mil senare så kom regnet.\n",
+      "dst": "Men bara någon mil därifrån kom regnet.\n"
+    },
+    {
+      "id": 16,
+      "src": "Vi tycker helt enkelt att alla barn har rätt till en vit jul.\n",
+      "dst": "Den verkar Alla barn har rätt till en Vit Jul!\n"
+    },
+    {
+      "id": 17,
+      "src": "Så fort snön kommer är spåren preparerade.\n",
+      "dst": "Kommer bara snön så är spåren preparerade.\n"
+    },
+    {
+      "id": 18,
+      "src": "Med en ny indelning tror. det i kap. § Äktenskapsbalken stadgas att \"varje make svarar för sina skulder.\"\n",
+      "dst": "Enligt lag ska sedan hälftendelas mellan er, kap. § Äktenskapsbalken stadgas att \"varje make svarar för sina skulder.\"\n"
+    }
+  ]
+}

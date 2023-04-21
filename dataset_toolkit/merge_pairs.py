@@ -1,5 +1,5 @@
+import json
 import os
-import shutil
 import sys
 
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
@@ -12,7 +12,11 @@ def merge_to_pairs(path_to_src: str, path_to_dst: str, target_dir: str):
 
     src_file = open(path_to_src)
     dst_file = open(path_to_dst)
-    out_file = open(f'{target_dir}/merged.out', 'w')
+    out_file = open(f'{target_dir}/merged.json', 'w', encoding='utf8')
+
+    output = {
+        'data': []
+    }
 
     while True:
         src_line = src_file.readline()
@@ -21,16 +25,15 @@ def merge_to_pairs(path_to_src: str, path_to_dst: str, target_dir: str):
         if len(src_line) == 0:
             break
 
-        entry = {
+        output['data'].append({
             'id': sentences,
             'src': src_line,
             'dst': dst_line,
-        }
-
-        out_file.write(str(entry))
+        })
 
         sentences += 1
 
+    json.dump(output, out_file, ensure_ascii=False)
     src_file.close()
     dst_file.close()
     out_file.close()
@@ -41,12 +44,13 @@ def main():
 
     src_file = find_arg(args, '-s', f'{os.path.dirname(os.path.abspath(__file__))}/test_sets/test_src.txt')
     dst_file = find_arg(args, '-d', f'{os.path.dirname(os.path.abspath(__file__))}/test_sets/test_dst.txt')
-    out_dir = find_arg(args, '-d', f'{os.path.dirname(os.path.abspath(__file__))}/out/merged')
+    out_dir = find_arg(args, '-o', f'{os.path.dirname(os.path.abspath(__file__))}/out/merged')
 
     try:
-        shutil.rmtree(out_dir)
-    finally:
         os.makedirs(out_dir)
+    except FileExistsError:
+        pass
+    finally:
         merge_to_pairs(src_file, dst_file, out_dir)
 
 

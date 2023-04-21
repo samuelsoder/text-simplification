@@ -21,7 +21,7 @@ def main():
     finally:
         if use_aws:
             translate_dataset(source_file, target_dir)
-        if use_huggingface:
+        elif use_huggingface:
             translate_dataset_with_model(source_file, target_dir, "Helsinki-NLP/opus-mt-en-sv",
                                          "Helsinki-NLP/opus-mt-en-sv")
 
