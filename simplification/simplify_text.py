@@ -17,7 +17,7 @@ class Simplifier:
 
     def simplify_sequence(self, sequence):
         encoded = self.tokenizer.encode(sequence, return_tensors='pt')
-        output = self.model.generate(encoded, max_length=250)
+        output = self.model.generate(encoded, max_length=500)
         return self.tokenizer.decode(output[0])
 
 
@@ -38,13 +38,13 @@ def simplify_fully(simplifier, sequence):
     return sequence
 
 
-def simplify(path_to_model, source, target_dir, fully=False):
+def simplify_file(path_to_model, source, target_dir, fully=False, print_res=False):
     simplifier = Simplifier(path_to_model)
 
     start_time = time.time()
     translation_time = 0
     no_lines = 0
-    total_lines = sum(1 for _ in open(source))
+    total_lines = sum(1 if line != '\n' else 0 for line in open(source))
 
     out_name = f'{source[source.rfind("/"):]}.simplified{".fully" if fully else ""}'
     out_file = f'{target_dir}/{out_name}'
@@ -57,8 +57,13 @@ def simplify(path_to_model, source, target_dir, fully=False):
     with open(source) as source_file:
         line = source_file.readline()
         while line:
+            if line == '\n':
+                line = source_file.readline()
+                continue
             sequence_time = time.time()
             simplified = simplifier.simplify_sequence(line) if not fully else simplify_fully(simplifier, line)
+            if print_res:
+                print(simplified)
             target.write(f'{simplified[8:-4]}\n')
             no_lines += 1
             translation_time += time.time() - sequence_time
@@ -83,13 +88,14 @@ def main():
     source_file = find_arg(args, '-s', f'{os.path.dirname(os.path.abspath(__file__))}/test_sets/test.txt')
     target_dir = find_arg(args, '-d', f'{os.path.dirname(os.path.abspath(__file__))}/out/simplified')
     fully = '-f' in args
+    print_res = '-p' in args
 
     try:
         os.makedirs(target_dir)
     except FileExistsError:
         pass
     finally:
-        simplify(path_to_model, source_file, target_dir, fully)
+        simplify_file(path_to_model, source_file, target_dir, fully, print_res)
 
 
 def test():
@@ -97,4 +103,4 @@ def test():
 
 
 if __name__ == '__main__':
-    test()
+    main()
